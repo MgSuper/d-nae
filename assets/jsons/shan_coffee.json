@@ -1,0 +1,64 @@
+[
+    {
+        "id": "0",
+        "name": "Shan Coffee",
+        "category": "Shan",
+        "imageUrl": [
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png",
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png"
+        ],
+        "oldPrice": "20000",
+        "sizes": [
+            {
+                "size": "4",
+                "isSelected": false
+            },
+            {
+                "size": "5",
+                "isSelected": false
+            },
+            {
+                "size": "6",
+                "isSelected": false
+            },
+            {
+                "size": "7",
+                "isSelected": false
+            }
+        ],
+        "price": "19000",
+        "description": "Best of best from Shan",
+        "title": "SH"
+    },
+    {
+        "id": "1",
+        "name": "Shan Coffee 1",
+        "category": "Shan",
+        "imageUrl": [
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png",
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png"
+        ],
+        "oldPrice": "10000",
+        "sizes": [
+            {
+                "size": "4",
+                "isSelected": false
+            },
+            {
+                "size": "5",
+                "isSelected": false
+            },
+            {
+                "size": "6",
+                "isSelected": false
+            },
+            {
+                "size": "7",
+                "isSelected": false
+            }
+        ],
+        "price": "16000",
+        "description": "Best of best from Shan 1",
+        "title": "SH"
+    }
+]

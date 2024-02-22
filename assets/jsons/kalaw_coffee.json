@@ -1,0 +1,64 @@
+[
+    {
+        "id": "0",
+        "name": "Kalaw Coffee",
+        "category": "Kalaw",
+        "imageUrl": [
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png",
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png"
+        ],
+        "oldPrice": "20000",
+        "sizes": [
+            {
+                "size": "4",
+                "isSelected": false
+            },
+            {
+                "size": "5",
+                "isSelected": false
+            },
+            {
+                "size": "6",
+                "isSelected": false
+            },
+            {
+                "size": "7",
+                "isSelected": false
+            }
+        ],
+        "price": "19000",
+        "description": "Best of best from Kalaw",
+        "title": "KL"
+    },
+    {
+        "id": "1",
+        "name": "Kalaw Coffee 1",
+        "category": "Kalaw",
+        "imageUrl": [
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png",
+            "https://www.clipartmax.com/png/full/30-303869_splash-coffee-cups-download-vector-coffee-png.png"
+        ],
+        "oldPrice": "15000",
+        "sizes": [
+            {
+                "size": "4",
+                "isSelected": false
+            },
+            {
+                "size": "5",
+                "isSelected": false
+            },
+            {
+                "size": "6",
+                "isSelected": false
+            },
+            {
+                "size": "7",
+                "isSelected": false
+            }
+        ],
+        "price": "17000",
+        "description": "Best of best from Kalaw 1",
+        "title": "KL"
+    }
+]
